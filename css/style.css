@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black;
+  text-align: center;
+  margin: auto;
+  max-width: 80%;
+  color: white;
+}
+
+.header__name {
+  color: #147efb;
+  font-size: 60px;
+}
+
+.header__image {
+  border-radius: 30px;
+  margin: auto;
+  max-width: 80%;
+}
+
+.header__quote {
+  font-size: 25px;
+  margin-top: 100px;
+  color: #53d769;
+}
+
+.biography {
+  margin-top: 100px;
+}
+
+.biography > p {
+  font-size: 25px;
+}
+
+.biography__headerBiography {
+  color: #147efb;
+}
+
+.biography__lastLine {
+  font-size: 35px;
+  color: #fc3d39;
+}
+
+.conclution__headerConclution {
+  color: #147efb;
+}
+
+li {
+  margin-top: 40px;
+}
+
+.conclution__headerli {
+  color: #fecb2e;
+  font-size: larger;
+}
+
+.conclution__headerliContent {
+  color: #53d769;
+}
